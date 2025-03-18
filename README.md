@@ -11,3 +11,5 @@ My results are attached in the folder.
 
 ![](https://github.com/virshlee/numerov/blob/main/wavefunc1.png)
 ![](https://github.com/virshlee/numerov/blob/main/wavefunc2.png)
+![](https://github.com/virshlee/numerov/blob/main/gauss_potnergy.png)
+![](https://github.com/virshlee/numerov/blob/main/gauss_parenergy.png)
