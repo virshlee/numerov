@@ -8,3 +8,6 @@ I started from a github repository which I don't find anymore, but I modified li
 
 
 My results are attached in the folder.
+
+![](https://github.com/virshlee/numerov/blob/main/wavefunc1.png)
+![](https://github.com/virshlee/numerov/blob/main/wavefunc2.png)
