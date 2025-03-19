@@ -1,4 +1,4 @@
-I started from a github repository which I don't find anymore, but I modified like 90% of the code. The numerov part was written correctly.
+This is a Numerov 1D Schrödinger equation solver, it can simulate transmission through arbitrary potential.
 
 ### Features
 
